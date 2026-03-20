@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| **Tech Stack** | Python, PySpark, SQL |
-| **Deliverable** | GitHub repository or zipped folder |
+| **Tech Stack** | Python, PySpark, SQL, Jupyter Lab |
+| **Deliverable** | Public GitHub repository |
 | **Data Source** | Blue Owls Data API (credentials provided separately) |
 
 ---
@@ -59,7 +59,7 @@ Build an ingestion layer in Python that pulls data from all API endpoints. Your 
 
 Save the raw ingested data as your Bronze layer (CSV files in a `bronze/` folder). Add an `_ingested_at` timestamp column and `_source_endpoint` column to each file.
 
-**Data management strategy:** Bronze is append-only — each pipeline run adds new records without modifying or overwriting existing data. Your ingestion logic should ensure that re-running the pipeline does not create duplicates.
+**Data management strategy:** Bronze is append-only — each pipeline run adds new records without modifying or overwriting existing data. Your ingestion logic should ensure that re-running the pipeline does not create duplicates for that date ensuring historisation.
 
 ---
 
@@ -192,9 +192,8 @@ Build a seller scorecard that ranks sellers on a composite score. For each selle
 
 Include a brief README (1–2 pages) covering:
 
-- Your architectural decisions and the reasoning behind them
+- Your technical decisions and the reasoning behind them
 - How you handled API failures and what your retry/resilience strategy is
-- Data quality issues you encountered and how you addressed them
 - Assumptions you made and any trade-offs you weighed
 - What you'd change or add for a production deployment on Azure/Fabric (scheduling, monitoring, CI/CD, security, cost optimization)
 
@@ -207,15 +206,14 @@ Be specific rather than generic. We value concrete reasoning over buzzwords.
 1. Click **"Use this template"** → **"Create a new repository"** at the top of this page
 2. Set your new repository to **Public** and give it a name (e.g. `blue-owls-de-assessment`)
 3. Do all your work in your repository — commit regularly so we can follow your progress
-4. When you are done, email us the link to your public repository
+4. When you are done, submit us the link to your public repository
 
 Additional requirements:
 
+- **Your entire pipeline must be implemented in Jupyter notebooks using PySpark** — see [GETTING_STARTED.md](GETTING_STARTED.md) for how to set up the environment
 - Include a `requirements.txt` for any packages your code depends on beyond what the notebook image provides
-- Code should run end-to-end against the provided API without manual intervention
-- Include logs or output samples that show your error handling in action
+- Notebooks should run end-to-end against the provided API without manual intervention
 - Do not commit the raw dataset files — your pipeline should pull from the API
-- Commit your `submission/output/` folder so we can review your outputs directly
 
 ---
 
@@ -231,18 +229,6 @@ We assess the following, roughly in order of importance:
 
 We are not looking for perfection. We are looking for someone who builds resilient systems, thinks clearly about data, and can articulate their decisions.
 
----
-
-## A Note on the Live Round
-
-In the next stage, you will walk us through your submission in a 60–90 minute live session. Be prepared to:
-
-- Explain your design choices and trade-offs in depth
-- Adapt your solution on the spot when we introduce a changed scenario (e.g., new data source, schema drift, real-time requirements)
-- Debug or refactor a portion of your code live
-- Discuss how your approach would scale in a production Fabric/Azure environment
-
-We are not looking for a perfect submission — we are looking for someone who thinks clearly, builds resilient systems, and can reason through problems in real time.
 
 ---
 
