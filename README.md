@@ -209,11 +209,11 @@ Be specific rather than generic. A concrete explanation of one real decision —
 1. Click **"Use this template"** → **"Create a new repository"** at the top of this page
 2. Set your new repository to **Public** and give it a name (e.g. `blue-owls-de-assessment`)
 3. Do all your work in your repository — commit regularly so we can follow your progress
-4. When you are done, submit us the link to your public repository
+4. When you are done, submit us the link to your public repository on this form: https://forms.office.com/r/1NvGCj7hQK
 
 Additional requirements:
 
-- **Your entire pipeline must be implemented in Jupyter notebooks using PySpark** — see [GETTING_STARTED.md](GETTING_STARTED.md) for environment setup
+- **Your entire pipeline must be implemented in Jupyter notebooks** — see [GETTING_STARTED.md](GETTING_STARTED.md) for environment setup
 - Include a `requirements.txt` for any packages your code depends on beyond what the notebook image provides
 - Notebooks should run end-to-end against the provided API without manual intervention
 - Do not commit the raw dataset files — your pipeline should pull from the API
