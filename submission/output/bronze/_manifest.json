@@ -1,0 +1,4623 @@
+{
+  "pages": {
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 1, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:50:05Z",
+      "pagination": {
+        "has_next": true,
+        "page": 1,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 1,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 10, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:23Z",
+      "pagination": {
+        "has_next": true,
+        "page": 10,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 10,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 11, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 11,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 11,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 12, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:31Z",
+      "pagination": {
+        "has_next": true,
+        "page": 12,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 12,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 13, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:34Z",
+      "pagination": {
+        "has_next": true,
+        "page": 13,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 13,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 14, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:36Z",
+      "pagination": {
+        "has_next": true,
+        "page": 14,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 14,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 15, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:37Z",
+      "pagination": {
+        "has_next": true,
+        "page": 15,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 15,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 16, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:40Z",
+      "pagination": {
+        "has_next": false,
+        "page": 16,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 16,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 590
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 2, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:17Z",
+      "pagination": {
+        "has_next": true,
+        "page": 2,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 2,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 3, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:20Z",
+      "pagination": {
+        "has_next": true,
+        "page": 3,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 3,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 4, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:20Z",
+      "pagination": {
+        "has_next": true,
+        "page": 4,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 4,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 5, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:20Z",
+      "pagination": {
+        "has_next": true,
+        "page": 5,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 5,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 6, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:22Z",
+      "pagination": {
+        "has_next": true,
+        "page": 6,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 6,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 7, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:22Z",
+      "pagination": {
+        "has_next": true,
+        "page": 7,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 7,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 8, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:22Z",
+      "pagination": {
+        "has_next": true,
+        "page": 8,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 8,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"order_items\", \"page\": 9, \"page_size\": 1000}": {
+      "endpoint": "order_items",
+      "ingested_at": "2026-03-27T13:59:23Z",
+      "pagination": {
+        "has_next": true,
+        "page": 9,
+        "page_size": 1000,
+        "total_pages": 16,
+        "total_records": 15590
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 9,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 1, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:19Z",
+      "pagination": {
+        "has_next": true,
+        "page": 1,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 1,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 10, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:23Z",
+      "pagination": {
+        "has_next": true,
+        "page": 10,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 10,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 11, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:24Z",
+      "pagination": {
+        "has_next": true,
+        "page": 11,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 11,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 12, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:24Z",
+      "pagination": {
+        "has_next": true,
+        "page": 12,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 12,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 13, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:24Z",
+      "pagination": {
+        "has_next": false,
+        "page": 13,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 13,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 824
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 2, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:20Z",
+      "pagination": {
+        "has_next": true,
+        "page": 2,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 2,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 3, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:20Z",
+      "pagination": {
+        "has_next": true,
+        "page": 3,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 3,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 4, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:20Z",
+      "pagination": {
+        "has_next": true,
+        "page": 4,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 4,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 5, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:20Z",
+      "pagination": {
+        "has_next": true,
+        "page": 5,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 5,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 6, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:20Z",
+      "pagination": {
+        "has_next": true,
+        "page": 6,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 6,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 7, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 7,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 7,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 8, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:23Z",
+      "pagination": {
+        "has_next": true,
+        "page": 8,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 8,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"date_from\": \"2018-07-01\", \"endpoint\": \"orders\", \"page\": 9, \"page_size\": 1000}": {
+      "endpoint": "orders",
+      "ingested_at": "2026-03-27T13:49:23Z",
+      "pagination": {
+        "has_next": true,
+        "page": 9,
+        "page_size": 1000,
+        "total_pages": 13,
+        "total_records": 12824
+      },
+      "params": {
+        "date_from": "2018-07-01",
+        "page": 9,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 1, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:40Z",
+      "pagination": {
+        "has_next": true,
+        "page": 1,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 1,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 10, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:45Z",
+      "pagination": {
+        "has_next": true,
+        "page": 10,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 10,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 100, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:42Z",
+      "pagination": {
+        "has_next": false,
+        "page": 100,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 100,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 441
+    },
+    "{\"endpoint\": \"customers\", \"page\": 11, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:46Z",
+      "pagination": {
+        "has_next": true,
+        "page": 11,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 11,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 12, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:46Z",
+      "pagination": {
+        "has_next": true,
+        "page": 12,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 12,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 13, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:46Z",
+      "pagination": {
+        "has_next": true,
+        "page": 13,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 13,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 14, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:46Z",
+      "pagination": {
+        "has_next": true,
+        "page": 14,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 14,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 15, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:46Z",
+      "pagination": {
+        "has_next": true,
+        "page": 15,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 15,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 16, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:47Z",
+      "pagination": {
+        "has_next": true,
+        "page": 16,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 16,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 17, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:49Z",
+      "pagination": {
+        "has_next": true,
+        "page": 17,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 17,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 18, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:49Z",
+      "pagination": {
+        "has_next": true,
+        "page": 18,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 18,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 19, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:49Z",
+      "pagination": {
+        "has_next": true,
+        "page": 19,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 19,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 2, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:40Z",
+      "pagination": {
+        "has_next": true,
+        "page": 2,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 2,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 20, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:49Z",
+      "pagination": {
+        "has_next": true,
+        "page": 20,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 20,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 21, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:49Z",
+      "pagination": {
+        "has_next": true,
+        "page": 21,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 21,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 22, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:51Z",
+      "pagination": {
+        "has_next": true,
+        "page": 22,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 22,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 23, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:51Z",
+      "pagination": {
+        "has_next": true,
+        "page": 23,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 23,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 24, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:52Z",
+      "pagination": {
+        "has_next": true,
+        "page": 24,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 24,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 25, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:54Z",
+      "pagination": {
+        "has_next": true,
+        "page": 25,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 25,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 26, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:54Z",
+      "pagination": {
+        "has_next": true,
+        "page": 26,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 26,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 27, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:54Z",
+      "pagination": {
+        "has_next": true,
+        "page": 27,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 27,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 28, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:54Z",
+      "pagination": {
+        "has_next": true,
+        "page": 28,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 28,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 29, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:54Z",
+      "pagination": {
+        "has_next": true,
+        "page": 29,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 29,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 3, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:40Z",
+      "pagination": {
+        "has_next": true,
+        "page": 3,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 3,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 30, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:55Z",
+      "pagination": {
+        "has_next": true,
+        "page": 30,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 30,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 31, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:55Z",
+      "pagination": {
+        "has_next": true,
+        "page": 31,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 31,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 32, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:55Z",
+      "pagination": {
+        "has_next": true,
+        "page": 32,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 32,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 33, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:55Z",
+      "pagination": {
+        "has_next": true,
+        "page": 33,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 33,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 34, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:01Z",
+      "pagination": {
+        "has_next": true,
+        "page": 34,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 34,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 35, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:01Z",
+      "pagination": {
+        "has_next": true,
+        "page": 35,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 35,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 36, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:01Z",
+      "pagination": {
+        "has_next": true,
+        "page": 36,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 36,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 37, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:02Z",
+      "pagination": {
+        "has_next": true,
+        "page": 37,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 37,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 38, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:02Z",
+      "pagination": {
+        "has_next": true,
+        "page": 38,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 38,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 39, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:02Z",
+      "pagination": {
+        "has_next": true,
+        "page": 39,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 39,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 4, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:40Z",
+      "pagination": {
+        "has_next": true,
+        "page": 4,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 4,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 40, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:02Z",
+      "pagination": {
+        "has_next": true,
+        "page": 40,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 40,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 41, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:06Z",
+      "pagination": {
+        "has_next": true,
+        "page": 41,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 41,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 42, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:06Z",
+      "pagination": {
+        "has_next": true,
+        "page": 42,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 42,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 43, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 43,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 43,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 44, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 44,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 44,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 45, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:10Z",
+      "pagination": {
+        "has_next": true,
+        "page": 45,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 45,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 46, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:11Z",
+      "pagination": {
+        "has_next": true,
+        "page": 46,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 46,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 47, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:14Z",
+      "pagination": {
+        "has_next": true,
+        "page": 47,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 47,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 48, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 48,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 48,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 49, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 49,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 49,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 5, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:41Z",
+      "pagination": {
+        "has_next": true,
+        "page": 5,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 5,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 50, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 50,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 50,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 51, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 51,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 51,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 52, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:17Z",
+      "pagination": {
+        "has_next": true,
+        "page": 52,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 52,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 53, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:17Z",
+      "pagination": {
+        "has_next": true,
+        "page": 53,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 53,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 54, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:17Z",
+      "pagination": {
+        "has_next": true,
+        "page": 54,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 54,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 55, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:19Z",
+      "pagination": {
+        "has_next": true,
+        "page": 55,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 55,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 56, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 56,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 56,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 57, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 57,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 57,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 58, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 58,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 58,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 59, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 59,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 59,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 6, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:41Z",
+      "pagination": {
+        "has_next": true,
+        "page": 6,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 6,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 60, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:23Z",
+      "pagination": {
+        "has_next": true,
+        "page": 60,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 60,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 61, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:23Z",
+      "pagination": {
+        "has_next": true,
+        "page": 61,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 61,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 62, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:25Z",
+      "pagination": {
+        "has_next": true,
+        "page": 62,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 62,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 63, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 63,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 63,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 64, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 64,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 64,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 65, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 65,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 65,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 66, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 66,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 66,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 67, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 67,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 67,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 68, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:27Z",
+      "pagination": {
+        "has_next": true,
+        "page": 68,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 68,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 69, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:27Z",
+      "pagination": {
+        "has_next": true,
+        "page": 69,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 69,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 7, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:43Z",
+      "pagination": {
+        "has_next": true,
+        "page": 7,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 7,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 70, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:27Z",
+      "pagination": {
+        "has_next": true,
+        "page": 70,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 70,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 71, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 71,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 71,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 72, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 72,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 72,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 73, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 73,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 73,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 74, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 74,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 74,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 75, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 75,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 75,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 76, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 76,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 76,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 77, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 77,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 77,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 78, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 78,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 78,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 79, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 79,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 79,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 8, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:45Z",
+      "pagination": {
+        "has_next": true,
+        "page": 8,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 8,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 80, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:33Z",
+      "pagination": {
+        "has_next": true,
+        "page": 80,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 80,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 81, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:33Z",
+      "pagination": {
+        "has_next": true,
+        "page": 81,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 81,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 82, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:34Z",
+      "pagination": {
+        "has_next": true,
+        "page": 82,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 82,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 83, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:34Z",
+      "pagination": {
+        "has_next": true,
+        "page": 83,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 83,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 84, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:35Z",
+      "pagination": {
+        "has_next": true,
+        "page": 84,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 84,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 85, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:35Z",
+      "pagination": {
+        "has_next": true,
+        "page": 85,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 85,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 86, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:35Z",
+      "pagination": {
+        "has_next": true,
+        "page": 86,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 86,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 87, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:35Z",
+      "pagination": {
+        "has_next": true,
+        "page": 87,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 87,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 88, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:37Z",
+      "pagination": {
+        "has_next": true,
+        "page": 88,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 88,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 89, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:38Z",
+      "pagination": {
+        "has_next": true,
+        "page": 89,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 89,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 9, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T13:59:45Z",
+      "pagination": {
+        "has_next": true,
+        "page": 9,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 9,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 90, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:38Z",
+      "pagination": {
+        "has_next": true,
+        "page": 90,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 90,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 91, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:38Z",
+      "pagination": {
+        "has_next": true,
+        "page": 91,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 91,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 92, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:38Z",
+      "pagination": {
+        "has_next": true,
+        "page": 92,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 92,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 93, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:38Z",
+      "pagination": {
+        "has_next": true,
+        "page": 93,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 93,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 94, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:38Z",
+      "pagination": {
+        "has_next": true,
+        "page": 94,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 94,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 95, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:38Z",
+      "pagination": {
+        "has_next": true,
+        "page": 95,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 95,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 96, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:38Z",
+      "pagination": {
+        "has_next": true,
+        "page": 96,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 96,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 97, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:40Z",
+      "pagination": {
+        "has_next": true,
+        "page": 97,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 97,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 98, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:40Z",
+      "pagination": {
+        "has_next": true,
+        "page": 98,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 98,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"customers\", \"page\": 99, \"page_size\": 1000}": {
+      "endpoint": "customers",
+      "ingested_at": "2026-03-27T14:00:40Z",
+      "pagination": {
+        "has_next": true,
+        "page": 99,
+        "page_size": 1000,
+        "total_pages": 100,
+        "total_records": 99441
+      },
+      "params": {
+        "page": 99,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 1, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 1,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 1,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 10, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 10,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 10,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 100, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:18Z",
+      "pagination": {
+        "has_next": true,
+        "page": 100,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 100,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 101, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:18Z",
+      "pagination": {
+        "has_next": true,
+        "page": 101,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 101,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 102, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:20Z",
+      "pagination": {
+        "has_next": true,
+        "page": 102,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 102,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 103, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:22Z",
+      "pagination": {
+        "has_next": true,
+        "page": 103,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 103,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 104, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:22Z",
+      "pagination": {
+        "has_next": false,
+        "page": 104,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 104,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 886
+    },
+    "{\"endpoint\": \"payments\", \"page\": 11, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 11,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 11,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 12, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 12,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 12,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 13, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 13,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 13,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 14, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 14,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 14,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 15, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:18Z",
+      "pagination": {
+        "has_next": true,
+        "page": 15,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 15,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 16, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:18Z",
+      "pagination": {
+        "has_next": true,
+        "page": 16,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 16,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 17, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:19Z",
+      "pagination": {
+        "has_next": true,
+        "page": 17,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 17,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 18, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 18,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 18,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 19, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 19,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 19,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 2, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 2,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 2,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 20, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 20,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 20,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 21, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 21,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 21,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 22, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:21Z",
+      "pagination": {
+        "has_next": true,
+        "page": 22,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 22,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 23, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:24Z",
+      "pagination": {
+        "has_next": true,
+        "page": 23,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 23,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 24, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:25Z",
+      "pagination": {
+        "has_next": true,
+        "page": 24,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 24,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 25, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 25,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 25,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 26, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 26,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 26,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 27, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 27,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 27,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 28, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 28,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 28,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 29, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 29,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 29,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 3, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 3,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 3,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 30, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:26Z",
+      "pagination": {
+        "has_next": true,
+        "page": 30,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 30,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 31, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:28Z",
+      "pagination": {
+        "has_next": true,
+        "page": 31,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 31,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 32, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:28Z",
+      "pagination": {
+        "has_next": true,
+        "page": 32,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 32,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 33, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:28Z",
+      "pagination": {
+        "has_next": true,
+        "page": 33,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 33,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 34, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 34,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 34,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 35, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 35,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 35,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 36, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 36,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 36,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 37, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 37,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 37,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 38, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:30Z",
+      "pagination": {
+        "has_next": true,
+        "page": 38,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 38,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 39, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:32Z",
+      "pagination": {
+        "has_next": true,
+        "page": 39,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 39,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 4, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 4,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 4,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 40, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:32Z",
+      "pagination": {
+        "has_next": true,
+        "page": 40,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 40,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 41, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:33Z",
+      "pagination": {
+        "has_next": true,
+        "page": 41,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 41,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 42, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:33Z",
+      "pagination": {
+        "has_next": true,
+        "page": 42,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 42,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 43, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:33Z",
+      "pagination": {
+        "has_next": true,
+        "page": 43,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 43,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 44, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:33Z",
+      "pagination": {
+        "has_next": true,
+        "page": 44,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 44,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 45, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:33Z",
+      "pagination": {
+        "has_next": true,
+        "page": 45,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 45,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 46, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:33Z",
+      "pagination": {
+        "has_next": true,
+        "page": 46,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 46,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 47, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:33Z",
+      "pagination": {
+        "has_next": true,
+        "page": 47,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 47,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 48, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:35Z",
+      "pagination": {
+        "has_next": true,
+        "page": 48,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 48,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 49, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:35Z",
+      "pagination": {
+        "has_next": true,
+        "page": 49,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 49,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 5, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 5,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 5,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 50, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:37Z",
+      "pagination": {
+        "has_next": true,
+        "page": 50,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 50,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 51, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:39Z",
+      "pagination": {
+        "has_next": true,
+        "page": 51,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 51,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 52, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:39Z",
+      "pagination": {
+        "has_next": true,
+        "page": 52,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 52,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 53, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:39Z",
+      "pagination": {
+        "has_next": true,
+        "page": 53,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 53,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 54, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:39Z",
+      "pagination": {
+        "has_next": true,
+        "page": 54,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 54,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 55, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:42Z",
+      "pagination": {
+        "has_next": true,
+        "page": 55,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 55,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 56, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:42Z",
+      "pagination": {
+        "has_next": true,
+        "page": 56,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 56,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 57, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:47Z",
+      "pagination": {
+        "has_next": true,
+        "page": 57,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 57,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 58, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:47Z",
+      "pagination": {
+        "has_next": true,
+        "page": 58,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 58,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 59, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:47Z",
+      "pagination": {
+        "has_next": true,
+        "page": 59,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 59,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 6, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:15Z",
+      "pagination": {
+        "has_next": true,
+        "page": 6,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 6,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 60, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:47Z",
+      "pagination": {
+        "has_next": true,
+        "page": 60,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 60,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 61, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:47Z",
+      "pagination": {
+        "has_next": true,
+        "page": 61,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 61,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 62, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:50Z",
+      "pagination": {
+        "has_next": true,
+        "page": 62,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 62,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 63, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:50Z",
+      "pagination": {
+        "has_next": true,
+        "page": 63,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 63,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 64, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:50Z",
+      "pagination": {
+        "has_next": true,
+        "page": 64,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 64,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 65, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:50Z",
+      "pagination": {
+        "has_next": true,
+        "page": 65,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 65,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 66, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:50Z",
+      "pagination": {
+        "has_next": true,
+        "page": 66,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 66,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 67, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:50Z",
+      "pagination": {
+        "has_next": true,
+        "page": 67,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 67,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 68, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:52Z",
+      "pagination": {
+        "has_next": true,
+        "page": 68,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 68,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 69, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:52Z",
+      "pagination": {
+        "has_next": true,
+        "page": 69,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 69,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 7, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:15Z",
+      "pagination": {
+        "has_next": true,
+        "page": 7,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 7,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 70, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:55Z",
+      "pagination": {
+        "has_next": true,
+        "page": 70,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 70,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 71, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:55Z",
+      "pagination": {
+        "has_next": true,
+        "page": 71,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 71,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 72, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:55Z",
+      "pagination": {
+        "has_next": true,
+        "page": 72,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 72,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 73, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:56Z",
+      "pagination": {
+        "has_next": true,
+        "page": 73,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 73,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 74, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:56Z",
+      "pagination": {
+        "has_next": true,
+        "page": 74,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 74,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 75, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:57Z",
+      "pagination": {
+        "has_next": true,
+        "page": 75,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 75,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 76, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:57Z",
+      "pagination": {
+        "has_next": true,
+        "page": 76,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 76,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 77, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:57Z",
+      "pagination": {
+        "has_next": true,
+        "page": 77,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 77,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 78, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:02Z",
+      "pagination": {
+        "has_next": true,
+        "page": 78,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 78,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 79, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:04Z",
+      "pagination": {
+        "has_next": true,
+        "page": 79,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 79,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 8, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:15Z",
+      "pagination": {
+        "has_next": true,
+        "page": 8,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 8,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 80, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:04Z",
+      "pagination": {
+        "has_next": true,
+        "page": 80,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 80,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 81, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:06Z",
+      "pagination": {
+        "has_next": true,
+        "page": 81,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 81,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 82, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:06Z",
+      "pagination": {
+        "has_next": true,
+        "page": 82,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 82,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 83, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:06Z",
+      "pagination": {
+        "has_next": true,
+        "page": 83,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 83,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 84, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 84,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 84,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 85, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 85,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 85,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 86, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 86,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 86,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 87, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 87,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 87,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 88, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:09Z",
+      "pagination": {
+        "has_next": true,
+        "page": 88,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 88,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 89, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:09Z",
+      "pagination": {
+        "has_next": true,
+        "page": 89,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 89,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 9, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:01:16Z",
+      "pagination": {
+        "has_next": true,
+        "page": 9,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 9,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 90, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:09Z",
+      "pagination": {
+        "has_next": true,
+        "page": 90,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 90,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 91, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:09Z",
+      "pagination": {
+        "has_next": true,
+        "page": 91,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 91,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 92, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 92,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 92,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 93, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 93,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 93,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 94, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:15Z",
+      "pagination": {
+        "has_next": true,
+        "page": 94,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 94,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 95, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:15Z",
+      "pagination": {
+        "has_next": true,
+        "page": 95,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 95,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 96, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:15Z",
+      "pagination": {
+        "has_next": true,
+        "page": 96,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 96,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 97, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:15Z",
+      "pagination": {
+        "has_next": true,
+        "page": 97,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 97,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 98, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:15Z",
+      "pagination": {
+        "has_next": true,
+        "page": 98,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 98,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"payments\", \"page\": 99, \"page_size\": 1000}": {
+      "endpoint": "payments",
+      "ingested_at": "2026-03-27T14:02:15Z",
+      "pagination": {
+        "has_next": true,
+        "page": 99,
+        "page_size": 1000,
+        "total_pages": 104,
+        "total_records": 103886
+      },
+      "params": {
+        "page": 99,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 1, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:42Z",
+      "pagination": {
+        "has_next": true,
+        "page": 1,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 1,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 10, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:49Z",
+      "pagination": {
+        "has_next": true,
+        "page": 10,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 10,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 11, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:49Z",
+      "pagination": {
+        "has_next": true,
+        "page": 11,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 11,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 12, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:56Z",
+      "pagination": {
+        "has_next": true,
+        "page": 12,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 12,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 13, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:56Z",
+      "pagination": {
+        "has_next": true,
+        "page": 13,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 13,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 14, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:56Z",
+      "pagination": {
+        "has_next": true,
+        "page": 14,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 14,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 15, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:57Z",
+      "pagination": {
+        "has_next": true,
+        "page": 15,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 15,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 16, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:58Z",
+      "pagination": {
+        "has_next": true,
+        "page": 16,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 16,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 17, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:59Z",
+      "pagination": {
+        "has_next": true,
+        "page": 17,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 17,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 18, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:59Z",
+      "pagination": {
+        "has_next": true,
+        "page": 18,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 18,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 19, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:01Z",
+      "pagination": {
+        "has_next": true,
+        "page": 19,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 19,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 2, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:42Z",
+      "pagination": {
+        "has_next": true,
+        "page": 2,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 2,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 20, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:01Z",
+      "pagination": {
+        "has_next": true,
+        "page": 20,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 20,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 21, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:01Z",
+      "pagination": {
+        "has_next": true,
+        "page": 21,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 21,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 22, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:01Z",
+      "pagination": {
+        "has_next": true,
+        "page": 22,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 22,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 23, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:01Z",
+      "pagination": {
+        "has_next": true,
+        "page": 23,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 23,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 24, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:03Z",
+      "pagination": {
+        "has_next": true,
+        "page": 24,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 24,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 25, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:04Z",
+      "pagination": {
+        "has_next": true,
+        "page": 25,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 25,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 26, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:04Z",
+      "pagination": {
+        "has_next": true,
+        "page": 26,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 26,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 27, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:06Z",
+      "pagination": {
+        "has_next": true,
+        "page": 27,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 27,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 28, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:06Z",
+      "pagination": {
+        "has_next": true,
+        "page": 28,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 28,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 29, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 29,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 29,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 3, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:44Z",
+      "pagination": {
+        "has_next": true,
+        "page": 3,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 3,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 30, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 30,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 30,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 31, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 31,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 31,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 32, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:08Z",
+      "pagination": {
+        "has_next": true,
+        "page": 32,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 32,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 33, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:01:08Z",
+      "pagination": {
+        "has_next": false,
+        "page": 33,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 33,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 951
+    },
+    "{\"endpoint\": \"products\", \"page\": 4, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:46Z",
+      "pagination": {
+        "has_next": true,
+        "page": 4,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 4,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 5, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:46Z",
+      "pagination": {
+        "has_next": true,
+        "page": 5,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 5,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 6, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:47Z",
+      "pagination": {
+        "has_next": true,
+        "page": 6,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 6,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 7, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:47Z",
+      "pagination": {
+        "has_next": true,
+        "page": 7,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 7,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 8, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:47Z",
+      "pagination": {
+        "has_next": true,
+        "page": 8,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 8,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"products\", \"page\": 9, \"page_size\": 1000}": {
+      "endpoint": "products",
+      "ingested_at": "2026-03-27T14:00:49Z",
+      "pagination": {
+        "has_next": true,
+        "page": 9,
+        "page_size": 1000,
+        "total_pages": 33,
+        "total_records": 32951
+      },
+      "params": {
+        "page": 9,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"sellers\", \"page\": 1, \"page_size\": 1000}": {
+      "endpoint": "sellers",
+      "ingested_at": "2026-03-27T14:01:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 1,
+        "page_size": 1000,
+        "total_pages": 4,
+        "total_records": 3095
+      },
+      "params": {
+        "page": 1,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"sellers\", \"page\": 2, \"page_size\": 1000}": {
+      "endpoint": "sellers",
+      "ingested_at": "2026-03-27T14:01:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 2,
+        "page_size": 1000,
+        "total_pages": 4,
+        "total_records": 3095
+      },
+      "params": {
+        "page": 2,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"sellers\", \"page\": 3, \"page_size\": 1000}": {
+      "endpoint": "sellers",
+      "ingested_at": "2026-03-27T14:01:13Z",
+      "pagination": {
+        "has_next": true,
+        "page": 3,
+        "page_size": 1000,
+        "total_pages": 4,
+        "total_records": 3095
+      },
+      "params": {
+        "page": 3,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 1000
+    },
+    "{\"endpoint\": \"sellers\", \"page\": 4, \"page_size\": 1000}": {
+      "endpoint": "sellers",
+      "ingested_at": "2026-03-27T14:01:13Z",
+      "pagination": {
+        "has_next": false,
+        "page": 4,
+        "page_size": 1000,
+        "total_pages": 4,
+        "total_records": 3095
+      },
+      "params": {
+        "page": 4,
+        "page_size": 1000
+      },
+      "rows_quarantined": 0,
+      "rows_written": 95
+    }
+  }
+}
